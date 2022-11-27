@@ -9,7 +9,7 @@
 
 ## Kody dodani za pomocą linku z Collab i gotowego kodu . 
 
-##### Zadania 
+# Zadania 
 
 ## 1 ) Przyblizenie Liczby Pi ze wzoru Leibnitza  
 ## 2 ) Równolegla metoda Trapezów 
