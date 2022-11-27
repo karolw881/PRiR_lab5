@@ -19,3 +19,9 @@
 ## Adnotacja 
 ## funkcja pow () nie dziala w Collaboratory więc napisalem prosta funkcje potega do potegowania 
 
+## Linki do dysku 
+
+
+https://colab.research.google.com/drive/1pTsjCHOU7PTTAbgijw5SCJapKoRpNwFv?authuser=1#scrollTo=sTf6LVLDGox-
+
+https://colab.research.google.com/drive/1wdm-o-BpBvjFsg_cz0LeCVOdXGr2lqYO?usp=sharing
