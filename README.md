@@ -3,9 +3,9 @@
 
 ## Zadania zostaly zrobione za pomocą środowisko MPI jezyka C 
 
-### 1 . ) Możliwość odpalenia programu za pomocoą  Google Collaborate 
+### 1 ) Możliwość odpalenia programu za pomocoą  Google Collaborate 
 
-### 2 . ) Możliwość odpalanie programu w konsoli Linuxa 
+### 2 ) Możliwość odpalanie programu w konsoli Linuxa 
 
 ## Kody dodani za pomocą linku z Collab i gotowego kodu . 
 
